@@ -1,3 +1,3 @@
 # github_tutorial
 
-![]("./figs/github_flow.png")
+![github_flow]("./figs/github_flow.png")
