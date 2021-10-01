@@ -1,3 +1,3 @@
 # github_tutorial
 
-![alt text](https://github.com/chingchen1018/github_tutorial/figs/github_flow.png?raw=true)
+![github_flow](https://raw.githubusercontent.com/chingchen1018/github_tutorial/main/figs/github_flow.png)
