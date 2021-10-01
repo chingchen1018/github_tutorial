@@ -1,3 +1,3 @@
 # github_tutorial
 
-![github_flow]("./figs/github_flow.png")
+![alt text](https://github.com/chingchen1018/github_tutorial/figs/github_flow.png?raw=true)
